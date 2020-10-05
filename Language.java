@@ -19,5 +19,7 @@ public class Language {
   public static void main(String[] args) {
     Language Spanish = new Language("Spanish", 2, "many", "subject-verb-object");
     Spanish.getInfo();
+    Mayan Tzotzil = new Mayan("Tzotzil", 66); 
+    Tzotzil.getInfo();
   }
 }
