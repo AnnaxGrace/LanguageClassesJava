@@ -21,5 +21,9 @@ public class Language {
     Spanish.getInfo();
     Mayan Tzotzil = new Mayan("Tzotzil", 66); 
     Tzotzil.getInfo();
+    SinoTibetan MandarinChinese = new SinoTibetan("Mandarin Chinese", 40);
+    SinoTibetan Burmese = new SinoTibetan("Burmese", 67);
+    MandarinChinese.getInfo();
+    Burmese.getInfo();
   }
 }
